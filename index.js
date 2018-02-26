@@ -20,6 +20,7 @@ function sayHiToGrandma (string) {
 }
 
 function sayHiToGrandma (string) {
-  var cantHear = "I can't hear you!";
-  if (string.toLowerCase(string) === string) return cantHear;
+  var yesIndeed = "YES INDEED!";
+  if (string.toUpperCase(string) === string) return yesIndeed;
 }
+
